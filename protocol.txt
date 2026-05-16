@@ -1,0 +1,7 @@
+Protocol Design
+
+- TCP sockets are used.
+- Port 7000 is used.
+- Messages are encoded using UTF-8.
+- Files are sent as bytes.
+- Client and server communicate in real time.
